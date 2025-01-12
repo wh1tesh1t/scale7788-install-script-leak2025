@@ -1,0 +1,3 @@
+wget http://android.relgcp.ru/sc/install.x
+chmod +x install.x
+./install.x
